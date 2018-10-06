@@ -1,11 +1,11 @@
 {
     "homepage": "https://jenkins-x.io/",
     "license": "Apache-2.0",
-    "version": "1.3.244",
+    "version": "1.3.385",
     "architecture": {
         "64bit": {
             "url": "https://github.com/jenkins-x/jx/releases/download/v1.3.244/jx-windows-amd64.zip",
-            "hash": "482e02d1fb0a4387f63b00219a7cb6fd5f10d3a880404095574529e74d4d5438"
+            "hash": "7f39509be0698e30240d03dfa2510f996c68ffb51cbde0ba525b3de5b95e744d"
         }
     },
     "bin": [
